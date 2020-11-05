@@ -1,5 +1,7 @@
 # README File
 
+![image info](./pictures/image.jpg)
+
 ## Niklas Bleicher
 - 21 Jahre
 - MIB, HFU Furtwangen
